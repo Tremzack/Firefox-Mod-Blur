@@ -49,7 +49,7 @@
 ===============================================================*/
 
 @import url("firefox-csshacks/chrome/autohide_sidebar.css");
-@import url("firefox-csshacks/chrome/textual_context_navigation.css");
+/* @import url("firefox-csshacks/chrome/textual_context_navigation.css"); */
 @import url("firefox-csshacks/chrome/autohide_navigation_button.css");
 
 @import url("EXTRA MODS/Bookmarks Bar Mods/Popout bookmarks bar/popout_bookmarks_bar_on_hover.css");
