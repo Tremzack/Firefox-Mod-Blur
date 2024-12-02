@@ -51,12 +51,9 @@
 @import url("firefox-csshacks/chrome/autohide_sidebar.css");
 @import url("firefox-csshacks/chrome/hide_tabs_toolbar_v2.css");
 @import url("firefox-csshacks/chrome/autohide_bookmarks_toolbar.css");
-/* @import url("firefox-csshacks/chrome/textual_context_navigation.css"); */
+@import url("firefox-csshacks/chrome/urlbar_centered_text.css");
 @import url("firefox-csshacks/chrome/autohide_navigation_button.css");
-@import url("EXTRA MODS/Min-max-close control buttons/Right side default system buttons/MenuButtonsOnLeft/min-max-close_buttons.css");
-@import url("EXTRA MODS/Bookmarks Bar Mods/Popout bookmarks bar/popout_bookmarks_bar_on_hover.css");
-@import url("EXTRA MODS/Icon and Button Mods/Icons in main menu/icons_in_main_menu.css");
-@import url("EXTRA MODS/Compact extensions menu/Style 1/cleaner_extensions_menu.css");
+
 @import url("sideberry_mods.css");
 /* @import url("ft-syntax-highlight/src/ft-syntax-highlight.css") */
 
